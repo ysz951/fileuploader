@@ -8,7 +8,7 @@ class App extends Component {
     super(props);
     this.state = {
       searchTerm: '',
-      filterOption: 'Synced'
+      filterOption: 'All'
     };
   }
 
